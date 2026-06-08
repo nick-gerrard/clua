@@ -1,13 +1,13 @@
 # clua
 
-A Neovim plugin for inspecting the structure of JSON responses from third-party APIs. Give it a URL, get back a clean view of every key path and its type — no values, no noise.
+A Neovim plugin for inspecting the structure of JSON responses from third-party APIs. Give it a URL, get back a clean view of every key path and its type.
 
 ## Install
 
 Using lazy.nvim:
 
 ```lua
-{ "nickg/clua" }
+{ "nick-gerrard/clua" }
 ```
 
 ## Usage
